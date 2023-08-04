@@ -1,0 +1,36 @@
+body {
+    font-family: helvetica;
+}
+h1 {
+    margin-top: 0px;
+    padding: 20px;
+    color: #fff;
+    background-color: #808080;
+    text-align: center;
+}
+
+ul {
+    background-color: #808080;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    list-style: none;
+}
+
+#lasagna {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 15px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+#balls {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 0;
+}
